@@ -1,9 +1,9 @@
 # [🌹 틸리 - 꾸준하고픈 개발자를 위한 공간](https://kc29be941feb6a.user-app.krampoline.com/)
 
 <p align='center'>
-<img width="200" alt="스크린샷 2023-03-16 오전 9 30 09" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/908cde6b-1f19-4a35-bc36-7c77309ffef1">
+ <img src="./images/logo.png" width="450" alt="로고">
 </p>
-
+</br></br>
 <p align='center'>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -12,30 +12,17 @@
     <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
 </p>
-
 <br/>
 
-# 🔗 관련 주소
+> **미리보기**
+> - 💡 [서비스 기획 의도](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-%EC%99%9C-%EC%9D%B4%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC)
+> - 📌 [주요 기능](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
+> - 💻 [BE - 핵심 개발 영역](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-be---%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%B0%9C-%EC%98%81%EC%97%AD)
+> - 📝 [ERD](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-erd)
+> - 🔍 [아키텍쳐 구조](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#%EF%B8%8F-%EC%95%84%ED%82%A4%ED%83%9D%EC%B3%90-%EA%B5%AC%EC%A1%B0)
+> - 🙇🏻‍♂️ [TIL-y 구성원](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-til-y-%EA%B5%AC%EC%84%B1%EC%9B%90)
+</br>
 
-| 문서 | 
-|:--------:|
-| [7조 배포 주소](https://k50d31201bb8ea.user-app.krampoline.com) |
-| [API 문서](https://www.notion.so/API-d7c21dd77c1643348c98b01c8f3d9f2a) |
-| [피그마](https://www.figma.com/file/CBibyBNZ1jmESyVs0jnjSt/3%EB%8B%A8%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&mode=design&t=0h0155bB1sb2wp98-0) |
-| [7조 노션](https://www.notion.so/2a6af605e8184499b21492cb7aabf6f5?v=0b907fed27634982ace606d37a4a6c88) |
-
-
-# 🏳️‍🌈 목차
-1. [서비스 기획 의도](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-%EC%99%9C-%EC%9D%B4%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC)
-2. [주요 기능](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5)
-3. [BE - 핵심 개발 영역](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-be---%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%B0%9C-%EC%98%81%EC%97%AD)
-4. [ERD](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-erd)
-5. [아키텍쳐 구조](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#%EF%B8%8F-%EC%95%84%ED%82%A4%ED%83%9D%EC%B3%90-%EA%B5%AC%EC%A1%B0)
-6. [TIL-y 구성원](https://github.com/Step3-kakao-tech-campus/Team7_BE/tree/Evaluation#-til-y-%EA%B5%AC%EC%84%B1%EC%9B%90)
-
-
-<br/>
-<br/>
 
 # 🤔 왜 이런 서비스를?
 
@@ -43,8 +30,7 @@
 - 카테캠의 핵심, 자기주도적 학습 -> **매일, 매주 TIL 작성 및 제출**
 - 하지만 100명이 넘는 학생들의 TIL을 **노션의 한 페이지에서 관리**
 <p align='center'>
-    <img width="400" alt="image" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/fa0355af-0242-472d-b0e6-0f313edd7a89">
-    <img width="350" alt="image" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/45d8a088-7119-49f8-a311-cdd87d0acad5">
+    <img src="./images/study.jpg" width="450" alt="공부">
 </p>
 
 ```
@@ -59,8 +45,13 @@
 - 로드맵의 각 단계를 직접 생성하고, 구성원들은 각 단계별로 학습할 수 있도록 하자
 - 제출 기한에 맞춰 단계별로 학습한 TIL을 제출할 수 있도록 하자
 - 한 눈에 제출된 TIL들을 확인할 수 있게 하자
+</br>
 
-<hr/>
+<p align='center'>
+<img src="./images/til.png" width="700" alt="틸">
+</p>
+
+</br>
 
 ## 📍 문제 상황 인식 2단계 <자기주도적 개발 학습의 어려움>
 - 개발, 스택 공부는 스스로 시작해야하는 경우가 많음
@@ -75,36 +66,35 @@
 - 각 단계별 참고 자료와 함께 학습하고 제출할 수 있도록 하자
 - 제출이 완료되면 해당 단계에 대해서 제출된 TIL들을 볼 수 있도록 하자.
 - 다른 사람들의 TIL을 보며 자신이 잘 학습했는지 확인할 수 있도록 하자.
- 
+</br> 
 
 <p align='center'>
-<img width="3000" alt="스크린샷 2023-03-16 오전 9 30 09" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/0eb148fe-0d60-4b33-918e-546fdab21e69">
+<img src="./images/other.png" width="730" alt="틸">
 </p>
 
-<br/>
-<br/>
+</br>
 
 
 # 🧩 주요 기능
 |TIL 작성|학습 참고|
 |:--:|:--:|
 |- 마크다운 에디터를 통한 TIL 작성<br/>-사라질 걱정 없는 상시 저장 기능<br/> |- 각 STEP별 참고자료 확인<br/>- 글에 대한 코멘트 확인|
-|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/0891a195-b7d3-4cf5-8d83-66f15e1ce695">|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/7f9dd89d-d40d-415b-9c2b-f63363ced835">|
+|<img src="./images/til2.png" width="350" alt="TIL">|<img src="./images/roadSpecific.png" width="350" alt="학습 참고">|
 
 |메인|참고 자료|
 |:--:|:--:|
 |- 작성한 TIL 목록들을 검색하고 확인<br/>- 장미밭을 통해 학습 열정 확인 <br/> - 개인, 그룹 로드맵을 분류하여 관리|- 로드맵에 참고할 자료를 첨부하는 기능<br/>-유튜브, 참고자료 링크<br/> |
-|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/101dc410-2f68-4ca4-84b6-c5d00005df84">|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/f0812e9f-f1df-4c94-bbb0-a0dab46f022f">|
+|<img src="./images/main.png" width="350" alt="메인">|<img src="./images/reference.gif" width="350" alt="참고 자료">|
 
 |로드맵 목록|구성원 관리|
 |:--:|:--:|
 |- 내가 참여하고 있는 로드맵의 목록을 확인<br/>- 현재 모집중인 그룹 로드맵 목록 확인|- 현재 로드맵에 속한 그룹원 목록<br/>-멤버 권한 변경, 강퇴 기능<br/> -그룹원의 학습일지 작성현황 확인<br/>  -로드맵 신청 관리, 수락 거절<br/>|
-|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/0cabf489-e6e4-4236-aba1-b8d78b18f316">|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/a975f794-b7b1-40db-be2f-51890e4d9d39">|
+|<img src="./images/road.png" width="350" alt="메인">|<img src="./images/member.png" width="350" alt="팀">|
 
 |TIL 공유하기|깃허브 업로드|
 |:--:|:--:|
 |- 내가 공부하는 주제에 대해 타인과 생각을 공유<br/>|- 작성한 학습일지를 깃허브에 업로드 하는 기능<br/>
-|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/db9467c1-8759-49d7-9f10-1ddda8744ea3">|<img width="350" alt="스크린샷 2023-03-19 오후 11 51 04" src="https://github.com/monsta-zo/Team7_FE/assets/83194164/735e6859-ff34-49f9-a797-930fddaecd04">|
+|<img src="./images/with.png" width="350" alt="공유">|<img src="./images/github.gif" width="350" alt="깃">|
 
 
 <br/>
@@ -170,17 +160,29 @@
 
 
 # 🏠 ERD
-![TIL-y_ERD](https://github.com/Step3-kakao-tech-campus/Team7_BE/assets/95485737/e3db0e8f-ec7b-4048-8c6e-a628722776ea)
+<p align='center'>
+<img src="./images/erd.png" width="800" alt="ERD">
+</p>
+
 
 <br/>
 <br/>
 
 # ⚙️ 아키택쳐 구조
-<img width="800" alt="스크린샷 2023-11-11 오후 8 02 21" src="https://github.com/Step3-kakao-tech-campus/Team7_BE/assets/131665728/aff5dd73-0cc2-4da4-8e53-f838630b7afd">
-</br>
+<p align='center'>
+<img src="./images/archi.png" width="650" alt="아키텍쳐">
+</p>
+ 
 </br>
 
+# 🔗 관련 주소
 
+| 문서 | 
+|:--------:|
+| [API 문서](https://blog.naver.com/hoyai-/223220052770) |
+| [피그마](https://www.figma.com/file/CBibyBNZ1jmESyVs0jnjSt/3%EB%8B%A8%EA%B3%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%99%80%EC%9D%B4%EC%96%B4-%ED%94%84%EB%A0%88%EC%9E%84?type=design&node-id=0-1&mode=design&t=0h0155bB1sb2wp98-0) |
+
+</br>
 
 # 👨‍💻🧑‍💻 TIL-y 구성원
 
@@ -215,6 +217,3 @@
   </tr>
 </table>
 </br>
-
-
-
