@@ -82,7 +82,7 @@
 
 |메인|참고 자료|
 |:--:|:--:|
-|- 작성한 TIL 목록을 검색하고 조회할 수 있음<br/>- 장미밭을 통해 학습 열정과 진행 상황 확인 <br/> - 개인과 그룹 로드맵을 구분하여 관리|- 로드맵에 외부 참고자료(URL, 유튜브) 첨부<br/> |
+|- 작성한 TIL 목록을 검색하고 조회<br/>- 장미밭을 통해 학습 열정과 진행 상황 확인 <br/> - 개인과 그룹 로드맵을 구분하여 관리|- 로드맵에 외부 참고자료(URL, 유튜브) 첨부<br/> |
 |<img src="./images/main.png" width="375" alt="메인">|<img src="./images/roadSpecific.png" width="375" alt="참고 자료">|
 
 |로드맵 목록|구성원 관리|
@@ -126,7 +126,12 @@
 <p align='center'>
 <img src="./images/archi.png" width="650" alt="아키텍쳐">
 </p>
- 
+</br>
+
+> - Redis를 이용해 Refresh Token을 **저장**하고 인증 시 유효성 검증 최적화.
+> - Docker를 이용해 각 서비스(Spring, React, Redis, MariaDB)를 **모듈화**하고, 네트워크 설정과 종속성 관리 자동화
+> - React(Next.js)와 Spring을 Nginx 리버스 프록시를 통해 연결하여 클라이언트와 서버사이드 요청을 동일한 API 엔드포인트로 **라우팅**
+> - Next.js의 SSR을 활용해 클라이언트 렌더링 이전에 **접근 권한**을 제어하고, React-Query의 prefetch/Hydration으로 **초기 데이터 로딩** 최적화
 </br>
 
 <h2 id="demo"> 🎥 시연 영상</h2>
